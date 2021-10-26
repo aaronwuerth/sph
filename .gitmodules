@@ -1,0 +1,21 @@
+[submodule "libs/glad"]
+	path = third-party/glad
+	url = https://github.com/Dav1dde/glad
+[submodule "libs/glm"]
+	path = third-party/glm
+	url = https://github.com/g-truc/glm
+[submodule "libs/glfw"]
+	path = third-party/glfw
+	url = https://github.com/glfw/glfw
+[submodule "libs/googletest"]
+	path = third-party/googletest
+	url = https://github.com/google/googletest
+[submodule "libs/spdlog"]
+	path = third-party/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "libs/stb"]
+	path = third-party/stb
+	url = https://github.com/nothings/stb
+[submodule "third-party/tclap"]
+	path = third-party/tclap
+	url = https://git.code.sf.net/p/tclap/code

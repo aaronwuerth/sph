@@ -1,0 +1,9 @@
+---
+Language: Cpp
+ColumnLimit: 80
+BasedOnStyle: LLVM
+IndentWidth: 2
+SortIncludes: false
+BreakBeforeBraces: Custom
+BraceWrapping:
+	AfterFunction: true

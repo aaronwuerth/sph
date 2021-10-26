@@ -1,0 +1,9 @@
+.vs
+build
+compile_commands.json
+.cache
+CppProperties.json
+CMakeSettings.json
+analysis
+data
+.vscode
